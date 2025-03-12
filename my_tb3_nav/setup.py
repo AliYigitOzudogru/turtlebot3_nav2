@@ -20,6 +20,7 @@ setup(
     tests_require=['pytest'],
     entry_points={
         'console_scripts': [
+            "tb3_nav = my_tb3_nav.nav2_control:main"
         ],
     },
 )

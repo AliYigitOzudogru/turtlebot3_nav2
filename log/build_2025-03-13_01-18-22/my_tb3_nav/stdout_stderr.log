@@ -1,0 +1,17 @@
+running develop
+running egg_info
+writing my_tb3_nav.egg-info/PKG-INFO
+writing dependency_links to my_tb3_nav.egg-info/dependency_links.txt
+writing entry points to my_tb3_nav.egg-info/entry_points.txt
+writing requirements to my_tb3_nav.egg-info/requires.txt
+writing top-level names to my_tb3_nav.egg-info/top_level.txt
+reading manifest file 'my_tb3_nav.egg-info/SOURCES.txt'
+writing manifest file 'my_tb3_nav.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/ali/Desktop/turtlebot3_nav2/install/my_tb3_nav/lib/python3.10/site-packages/my-tb3-nav.egg-link (link to .)
+Installing tb3_nav script to /home/ali/Desktop/turtlebot3_nav2/install/my_tb3_nav/lib/my_tb3_nav
+
+Installed /home/ali/Desktop/turtlebot3_nav2/build/my_tb3_nav
+running symlink_data
+symbolically linking /home/ali/Desktop/turtlebot3_nav2/build/my_tb3_nav/resource/my_tb3_nav -> /home/ali/Desktop/turtlebot3_nav2/install/my_tb3_nav/share/ament_index/resource_index/packages
+symbolically linking /home/ali/Desktop/turtlebot3_nav2/build/my_tb3_nav/package.xml -> /home/ali/Desktop/turtlebot3_nav2/install/my_tb3_nav/share/my_tb3_nav

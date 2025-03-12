@@ -1,0 +1,34 @@
+running egg_info
+creating ../build/my_tb3_nav/my_tb3_nav.egg-info
+writing ../build/my_tb3_nav/my_tb3_nav.egg-info/PKG-INFO
+writing dependency_links to ../build/my_tb3_nav/my_tb3_nav.egg-info/dependency_links.txt
+writing entry points to ../build/my_tb3_nav/my_tb3_nav.egg-info/entry_points.txt
+writing requirements to ../build/my_tb3_nav/my_tb3_nav.egg-info/requires.txt
+writing top-level names to ../build/my_tb3_nav/my_tb3_nav.egg-info/top_level.txt
+writing manifest file '../build/my_tb3_nav/my_tb3_nav.egg-info/SOURCES.txt'
+reading manifest file '../build/my_tb3_nav/my_tb3_nav.egg-info/SOURCES.txt'
+writing manifest file '../build/my_tb3_nav/my_tb3_nav.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/ali/Desktop/turtlebot3_nav2/build/my_tb3_nav/build
+creating /home/ali/Desktop/turtlebot3_nav2/build/my_tb3_nav/build/lib
+creating /home/ali/Desktop/turtlebot3_nav2/build/my_tb3_nav/build/lib/my_tb3_nav
+copying my_tb3_nav/nav2_control.py -> /home/ali/Desktop/turtlebot3_nav2/build/my_tb3_nav/build/lib/my_tb3_nav
+copying my_tb3_nav/__init__.py -> /home/ali/Desktop/turtlebot3_nav2/build/my_tb3_nav/build/lib/my_tb3_nav
+running install
+running install_lib
+creating /home/ali/Desktop/turtlebot3_nav2/install/my_tb3_nav/lib/python3.10/site-packages/my_tb3_nav
+copying /home/ali/Desktop/turtlebot3_nav2/build/my_tb3_nav/build/lib/my_tb3_nav/nav2_control.py -> /home/ali/Desktop/turtlebot3_nav2/install/my_tb3_nav/lib/python3.10/site-packages/my_tb3_nav
+copying /home/ali/Desktop/turtlebot3_nav2/build/my_tb3_nav/build/lib/my_tb3_nav/__init__.py -> /home/ali/Desktop/turtlebot3_nav2/install/my_tb3_nav/lib/python3.10/site-packages/my_tb3_nav
+byte-compiling /home/ali/Desktop/turtlebot3_nav2/install/my_tb3_nav/lib/python3.10/site-packages/my_tb3_nav/nav2_control.py to nav2_control.cpython-310.pyc
+byte-compiling /home/ali/Desktop/turtlebot3_nav2/install/my_tb3_nav/lib/python3.10/site-packages/my_tb3_nav/__init__.py to __init__.cpython-310.pyc
+running install_data
+creating /home/ali/Desktop/turtlebot3_nav2/install/my_tb3_nav/share/ament_index
+creating /home/ali/Desktop/turtlebot3_nav2/install/my_tb3_nav/share/ament_index/resource_index
+creating /home/ali/Desktop/turtlebot3_nav2/install/my_tb3_nav/share/ament_index/resource_index/packages
+copying resource/my_tb3_nav -> /home/ali/Desktop/turtlebot3_nav2/install/my_tb3_nav/share/ament_index/resource_index/packages
+copying package.xml -> /home/ali/Desktop/turtlebot3_nav2/install/my_tb3_nav/share/my_tb3_nav
+running install_egg_info
+Copying ../build/my_tb3_nav/my_tb3_nav.egg-info to /home/ali/Desktop/turtlebot3_nav2/install/my_tb3_nav/lib/python3.10/site-packages/my_tb3_nav-0.0.0-py3.10.egg-info
+running install_scripts
+writing list of installed files to '/home/ali/Desktop/turtlebot3_nav2/build/my_tb3_nav/install.log'
